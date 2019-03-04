@@ -1,2 +1,2 @@
 # Snake
-Jeux du serpent
+Jeux du serpent. Formation JavaScript.
